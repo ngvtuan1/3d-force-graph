@@ -3,14 +3,14 @@
   "version": "1.72.3",
   "description": "UI component for a 3D force-directed graph using ThreeJS and d3-force-3d layout engine",
   "type": "module",
-  "unpkg": "dist/3d-force-graph.min.js",
-  "main": "dist/3d-force-graph.js",
-  "module": "dist/3d-force-graph.js",
-  "types": "dist/3d-force-graph.d.ts",
+  "unpkg": "src/3d-force-graph.min.js",
+  "main": "src/3d-force-graph.js",
+  "module": "src/3d-force-graph.js",
+  "types": "src/3d-force-graph.d.ts",
   "exports": {
-    "types": "./dist/3d-force-graph.d.ts",
-    "umd": "./dist/3d-force-graph.min.js",
-    "default": "./dist/3d-force-graph.js"
+    "types": "./src/3d-force-graph.d.ts",
+    "umd": "./src/3d-force-graph.min.js",
+    "default": "./src/3d-force-graph.js"
   },
   "sideEffects": [
     "./src/*.css"
